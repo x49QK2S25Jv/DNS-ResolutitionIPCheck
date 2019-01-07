@@ -11,5 +11,5 @@ Continuous pings
 Change of IP
 ![ChangeOfIP](https://github.com/x49QK2S25Jv/DNS-ResolutitionIPCheck/blob/master/README/IPChange.JPG?raw=true)
 
-CHange of IP 
+Change of IP 
 ![ChangeOfIP2](https://github.com/x49QK2S25Jv/DNS-ResolutitionIPCheck/blob/master/README/ChangeOfIP.JPG?raw=true)
