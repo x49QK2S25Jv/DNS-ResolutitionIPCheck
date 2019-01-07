@@ -1,5 +1,6 @@
 # DNS-ResolutitionIPCheck
-Enter a DNS name and this will flushdns every 5 seconds, out put the current date and time with the DNS IP address
+Enter a DNS name, this will ping the dns record every 5 seconds, flush dns then repeat showing an easier to view window when changes have been recieved by a local client.
+
 ![WebsiteURL](https://github.com/x49QK2S25Jv/DNS-ResolutitionIPCheck/blob/master/README/EnterWebsiteURL.JPG?raw=true)
 
 FirstPing
