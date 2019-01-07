@@ -5,5 +5,5 @@ Enter a DNS name and this will flushdns every 5 seconds, out put the current dat
 FirstPing
 ![firstping](https://user-images.githubusercontent.com/46139035/50756258-722bba80-12c0-11e9-91f5-05ce0b1e30f3.JPG)
 
-Conintous pings
-![continousping](https://user-images.githubusercontent.com/46139035/50756276-82dc3080-12c0-11e9-84f4-5591445abf08.JPG)
+Continuous pings
+![continuousping](https://user-images.githubusercontent.com/46139035/50756276-82dc3080-12c0-11e9-84f4-5591445abf08.JPG)
